@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="violet">#80F</color>
+    <color name="indigo">#E0F</color>
+    <color name="blue">#00F</color>
+    <color name="green">#6C4</color>
+    <color name="yellow">#FF0</color>
+    <color name="orange">#F81</color>
+    <color name="red">#F00</color>
+    
+    <array name="rainbow">
+        <item>@color/violet</item>
+        <item>@color/indigo</item>
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/yellow</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+    </array>
+
+</resources>
